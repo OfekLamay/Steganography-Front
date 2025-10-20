@@ -27,16 +27,16 @@
 The need for privacy, confidentiality, and secure information transmission has become more prevalent in the digital age.  
 This project involves developing a system that implements **steganography principles** — concealing information inside digital files in a way that is invisible to the eye.
 
-The system will allow users to **embed files or text** into various formats such as images, audio files, videos, and documents — using dedicated hiding algorithms, **without visibly altering the file**.
+The system will allow users to **embed text messages** into various formats such as images, audio files, videos, and documents — using dedicated hiding algorithms, **without visibly altering the file**.
 
-Additionally, the project includes developing a **user-friendly interface** and the ability to **extract hidden information**, with **optional encryption** and basic content protection.
+Additionally, the project includes developing a **user-friendly interface** and the ability to **extract hidden information**, with **encryption** and basic content protection.
 
 ---
 
 ## 2. 🎯 Objectives and Goals
 
 ### 🎯 **Project Objective**
-Build a complete steganographic system that enables **transparent data hiding** (text, files) in various formats, while **preserving the integrity** of the outer file.
+Build a complete steganographic system that enables **transparent data hiding** in various formats, while **preserving the integrity** of the outer file.
 
 ### ✅ **Main Goals**
 - Develop dedicated algorithms for **data hiding and extraction**
